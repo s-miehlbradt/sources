@@ -1,4 +1,4 @@
-<? php
+<?php
 
-echo $_GET['request'];
+echo ($_GET['request']);
 
