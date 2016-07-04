@@ -7,5 +7,7 @@ unlink($_GET['whatever']);
 
 echo ($_GET['secret']);
 
+echo ($_GET['secret1']);
+
 
 
